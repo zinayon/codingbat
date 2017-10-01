@@ -9,3 +9,6 @@ def pos_neg(a, b, negative):
       return True
     else:
       return False
+  # This solve is from Sadman Niloy 
+  # A group member of PythonBD
+  #https://www.facebook.com/groups/pythonbd/
